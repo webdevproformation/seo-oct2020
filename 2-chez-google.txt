@@ -95,7 +95,7 @@ article E
 Fabrication des voitures
 
 auteur => sources
-article A
+article A => Article F
 article B
 article D
 
@@ -107,3 +107,24 @@ article D
 
 => plus vous allez avoir de liens extérieurs qui pointe vers votre site 
 => plus vous avez de chance d'être le 1ère dans les pages de résultat de Google 
+
+plus j'ai de site (je peux moi même les créer les site ) qui pointe vers mon site 
+
+
+si un site de référence => un site qui a un bonne note pointe vers un autre site 
+très bonne note aussi (meilleure note même si il a peu de lien vers lui )
+
+-----------------------
+
+1998 => à partir des années 2000 
+=> webmaster => super // quand ils sont bien classés dans les pages de résultats de Google
+=> plus de traffic 
+=> 200 liens page // je suis le premier 
+
+=> phase 2 => INDEXATION 
+=> SPAMMER INDEX de GOOGLE = SPAMDEXER 
+
+=> Google idiot => google image => TRUMP 
+
+=> Google Bombing ?? 
+https://optimiz.me/google-bombing/
