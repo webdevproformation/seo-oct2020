@@ -10,3 +10,48 @@ mdp : seo
 
 (bien saisir le identifiants en minuscule)
 
+------------------------
+
+https://github.com/webdevproformation/seo-oct2020
+
+
+------------------------
+
+SEO : Search Engine Optimization 
+
+Ensemble de technique qui vont permettre que les pages de vos sites soient bien classées
+dans les pages de résultat de Google 
+
+si vous faites un site il existe 3 manières d'y accéder ?? 
+
+1 donne l'adresse exacte à saisir dans la barre d'adresse 
+facebook / lemonde.fr / wikipedia 
+
+2 utiliser un site spécial => moteur de recherche => saisir dans le champ de recherche des mots clés => page de résultat => cliquer dans un des lien proposé
+
+3 lien => ( back link ) => un site internet (qui n'est pas le votre) => lien qui pointe vers votre site 
+<a href=""></a>
+
+
+------------------------
+
+la manière 2 qui est la plus utiliser pour chercher sur internet 
+
+=> dans la page résultat => le 1er ... maximum 20 liens 
+=> si on est le 1er => 35% de chance les internautes 
+=> 2ème 20% 
+=> 3ème => 10 
+
+=> 70% sur les 3 premiers liens proposés dans les pages de résultat 
+=> WINNER TAKE ALL 
+
+=> à partir du lien numéro 5 dans la page de résultat => très peu de traffic 
+
+=> en plus de bien connaitre le html / css / js / Wordpress / PHP ... 
+
+=> il FAUT connaitre et comprendre comment vos projets vont être classé par les moteurs de recherche 
+
+------------------------
+
+des questions ?? 
+
