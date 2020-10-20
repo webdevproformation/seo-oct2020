@@ -1,9 +1,197 @@
-Techiques à voir 
+Techniques à voir 
+
+optimisation technique 
+
+chaque page html => mettre dans ces pages balises html => remplir de mots clé 
+
+en plus de deux fichiers à créer et qui sont destinations des robots d'explorations
+
+script qui vont faire en sorte que votre site soit ajouté à la base de données de Google
+
+-------------------------------------
+
+en plus de vos fichiers .html 
+
+robots.txt => fichier textuel classique
+fichier qui donner des indications aux robots d'indexation qui va leur dire
+quelle fichier ils ne peuvent pas ajouter dans la base de données de Google 
+
+Dans le fichier robots.txt => 4 types d'instructions  
+
+User-agent: * => tous les robots // à la place de * => nom de type de robots
+GoogleBot // YahooSlurp // 
+# autorisé Allow:  ou Interdire Disallow:
+Disallow: /img-privee/ # dossier ou un nom de fichier 
+Allow: /img/ # Dossier ou un nom de fichier 
+
+Disallow: /
+Refuser TOUT 
+Allow: /
+Accepter que tout soit ajouté dans la base de données de Google 
+
+site internet qui est en construction => fini 
+souhaite qu'il ne soit 
+
+User-agent: *
+Disallow: /
+
+
+Sitemap: http://hotelluxury.com/sitemap.xml
+
+
+sitemap.xml => fichier qui est a destination des robots d'exploration 
+
+=> liste de tous les urls disponible sur le site 
+fichier format xml ( cousin du html )
+=> ce fichier contient la liste de toutes les adresses internet (pages) disponible sur le site 
+
+=> https://webdevpro.net/sitemap.xml => 
+
+Destination des robots d'exploration => 
+mâche le travail des robots en le préparant la liste de tous les urls 
+disponible 
+
+fichier => génére automatique via des scripts en PHP 
+
+http://www.finalclap.com/faq/189-php-creer-sitemaps-xml
+
+------ 
+
+=> critère on site 
+
+Achat du nom domaine suivant / adresse internet 
+
+=> developpeur-freelance-paris.fr 
+=> prenom-nom-graphiste.fr 
+
+=> les noms de fichiers html 
+
+developpeur-freelance-paris.fr/portfolio.html ( le nom du fichier )
+
+prenom-nom.fr/developpeur-freelance-paris.html
+
+
+domaine
+
+url : https://domaine.fr/fichier.html?parametre=1
+
+protocole : http https 
+domaine : domaine.fr 
+fichier / dossier  : fichier.html
+paramètre d'url : ?parametre=1
+
+https://formation.webdevpro.net/seo/
+
+protocole :
+formation. sous domaine
+webdevpro.net : domaine
+seo/ dossier 
+
+
+https://www.amazon.fr/s
+?bbn=22176497031
+&rh=n%3A22176497031%2Cn%3A17507815031
+&pf_rd_p=a41d71ba-ad88-489b-ab9a-f9129452b90a
+&pf_rd_r=ZGTT4Y902WQ0TPXG3GXA
+
+=> ne pas hésiter de mettre les mos clés 
+sous domaine
+domaine 
+fichier / dossier
+
+------ 
+
+Schéma.org / microdata 
+
+vous pouvez ajouter des attributs complémentaire dans vos balises html 
+
+itemscope, itemtype, itemid, itemprop, itemref
+
+https://schema.org/Person#sponsor-3
+
+    <p>Rose Tyler was sponsored by Sarah Jane Smith in the membership process.</p>
+
+    <p itemscope itemprop="Person" itemtype="https://schema.org/Person">
+      <span itemprop="name">Rose Tyler</span> was sponsored by
+      <span itemscope itemprop="sponsor" itemtype="https://schema.org/Person">
+        <span itemprop="name">Sarah Jane Smith</span>
+      </span> in the membership process.
+    </p>
+
+    => expliquer mot par mot dans votre page html => le sens profond des phrases que vous écrivez 
+
+    => effet positif => page peut être utilisé dans le SERP => zone enrichie 
 
 => 15h50 suite et fin de la journée 
+
+-- 
+
+Linking 
+
+il faut diffuser votre site => mettre des liens vers votre site 
+
+à votre initiative => pointer vers votre site 
+champ de commentaire / 
+wikipedia => collaboratif 
+
+-------
+
+partenariat => email au web master article sur vous 
+email un article rédigé )> parler de vous 
+
+=> Privilégier la qualité à la quantité (trouver les sites de référence dans votre domaine et mettre en place des liens vers vos pages)
+
+-- 
+
+3 piliers : mots clés / optimisation technique / linking 
+
+=> outil de suivi => idée de combien d'internaute viennent sur votre site 
+
+=> outil gratuitement par Google : Google Analytic 
+
+=> via votre compte GMAIL => vous pouvez créer un compte Google analytics 
+
+=> une fois que le compte est créé => un petit bout de javascript à écrire dans chaque page que vous souhaitez suivre 
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-XXXXXXXX-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+=> ce code va s'exécuter dès qu'une personne va venir voir votre site 
+=> collecter des informations sur la personne qui vient vous voir 
+=> mouchard 
+
+=> allez sur mon google analytics => statistiques d'activité de mon site principal webdevpro.net 
 
 -- 
 
 Outil de suivi !
 
 Google Analytics / Google Search 
+
+1 Tableau de bord sur l'activité de votre site
+
+=> vu d'ensemble du nombre de personnes qui sont venues + qui ils sont 
+origine géographique + la matériel qu'ils utilisent 
+
+=> automatique envoyé lorsque l'on fait appel une page web 
+
+<?php header() ?>
+
+2 acquisition => comment les gens sont venus sur le site
+
+url => dans la barre d'adresse
+lien => cliquer dessus
+via le SERP sur Google
+
+3 Comportement => top 10 des pages les plus consultées dans le site
+
+Google Search Console
+
+=> outil qui permet d'avoir une idée précise dans quelle requête votre site figure + position dans la page des résultats !
