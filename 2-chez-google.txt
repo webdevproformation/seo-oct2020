@@ -51,9 +51,59 @@ Lycos / Alta Vista / Yahoo =>
 https://www.youtube.com/watch?v=QdoU2tZYJbQ (8min)
 tous les jours x 2 
 
-
 => Google est performant => Travail en amont qui réalisé 
-=> Référencement doivent connaitre pour rentrer le plus vite possible dans les pages de réultats
+=> Référencement doivent connaitre pour rentrer le plus vite possible dans les pages de résultats
+
+--------------------------
+--------------------------
+
+Pourquoi Google est très apprécié ?? 
+
+Question / Mot clé => résultat est PERTINENT 
+
+Comment classer une énorme quantité d'information ? 
+A chaque fois => résultat pertinent 
+
+PAGE RANK : 
+Algorithme de Classement de Larry Page 
+
+=> Recherches qui avait été faites dans les Années 70 
+=> comment faire (pour un grosse quantité d'article ), toujours avoir l'article PERTINENT 
+
+=> plusieurs revues Scientifiques
+
+1 National Géographique
+
+Fabrication des voitures
+
+auteur => sources
+article A
+article B
+article C
+
+2 LeMonde Diplomatique
+
+Fabrication des voitures
+
+auteur => sources
+article A
+article D
+article E
+
+3 Science et Vie Junior 
+
+Fabrication des voitures
+
+auteur => sources
+article A
+article B
+article D
 
 
+=> Article A qui fait le consensus.
+=> Article A => c'est cet article qui DOIT ETRE le 1er 
 
+=> PERTINENCE ~= POPULARITE 
+
+=> plus vous allez avoir de liens extérieurs qui pointe vers votre site 
+=> plus vous avez de chance d'être le 1ère dans les pages de résultat de Google 
