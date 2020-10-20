@@ -1,0 +1,12 @@
+je vous ai préparé un support de cours pour la journée
+site internet
+
+
+url : https://formation.webdevpro.net/seo
+(directement dans la barre d'adresse, pas dans Google)
+
+login : seo
+mdp : seo 
+
+(bien saisir le identifiants en minuscule)
+
