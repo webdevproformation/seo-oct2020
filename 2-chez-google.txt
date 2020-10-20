@@ -1,0 +1,59 @@
+Avant de faire du Référencement
+
+=> Comment fonctionne un moteur de recherche (Google / Bing / Baidu ... )
+
+3 étapes :
+
+1 Exploration : 
+Google va exécuter des scripts qui vont explorer TOUS les sites internet / toutes les pages quelles contiennent 
+
+scripts = robots = bots = spider 
+
+index.html => lire tout le contenu html dans la page 
+toile à partir des balises <a href="">
+
+lien page présentation
+lien vers page contact
+lien vers blog 
+
+=> Stocker dans une énorme Base de données 
+
+=> origine Google ? projet créer par deux mathémiciens (Serguei Brin et Larry Page)
+=> Stanford (1998)
+=> aime bien les chiffres => Grand nombre => Gogol  
+
+=> 10 puissance 100 
+https://fr.wikipedia.org/wiki/Gogol_(nombre)
+
+=> Google disposait en 2005 de 100 data center => juste pour son activité 
+=> Data center flottant => Sur un bateau super tanker 
+
+=> BNP Paribas 10 Data center (aujourd'hui )
+
+=> c'est la raison pour laquelle vous n'avez pas beaucoup de concurrence 
+
+-------------------------------
+
+2 Indexation => 
+maintenant que j'ai une énorme quantité de donnée à disposition 
+EVALUER => compter le nombre que je trouve un mot / nombre de lien 
+l'age de la page / classer 
+
+=> Rank = Classer / Catégoriser / Evaluer 
+
+-------------------------------
+
+3 site https://google.fr => 
+INTERROGATION => résultat PERTINENT
+
+Lycos / Alta Vista / Yahoo => 
+
+https://www.youtube.com/watch?v=QdoU2tZYJbQ (8min)
+tous les jours x 2 
+
+
+=> Google est performant => Travail en amont qui réalisé 
+=> Référencement doivent connaitre pour rentrer le plus vite possible dans les pages de réultats
+
+
+
