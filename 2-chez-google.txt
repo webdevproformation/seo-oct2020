@@ -147,5 +147,79 @@ NE PAS Utiliser => google mauvaise note
 
 => 2ème filtre pour classer les résultats 
 
+
+=> do a barrel roll
+
+=> 10h50 rdv pour la suite 
+Excellent Café !
+
+-----------------------
+
+Gratuit 
+PERTINENT / PAS TROP BIASE => PAGE RANK et TRUST Rank 
+
+=> Secret bien gardé = fonction à 200 variables 
+quels critères et quel pondération => secret 
+
+=> Grandes familles de critères
+
+=> 1 critère on page
+
+Google va regarder en détail le contenu de vos pages html 
+dans le <head> et <body>
+
+=> 2 critère on site 
+
+tout le site 
+=> arborescence => comment vous avez organisé vos pages 
+n'importe quelle page de votre site doit être accessible en moins de 3 click 
+
+=> l'url et le nom domaine 
+
+=> 3 critère off site 
+
+back link (lien hypertexte qui pointe vers votre site)
+ancienneté / Taux de confiance 
+
+-----------------------
+
+spéculation sur le comportement des internautes ? 
+l'origine géographique des internautes à un impact sur ce classement 
+
+=> si le comportement des internautes a une influence => mineure dans le résultat 
+
+-----------------------
+
+référencement => Métier à part entière sur internet 
+
+Vocabulaire métier :
+
+SEO : Search Engine Optimization => améliorer la position dans la zone Naturelle des résultats de Google / Zone organic de la page résultat
+Référencement Naturel 
+
+Zone payante dans les pages résultats => SEA : Search Engine Advertizing /
+Référencement Payant 
+
+SEM = SEO + SEA = Search Engine Marketing 
+
+=> Réseau sociaux => site énorme et dans lequelle internaute qui vont passer tout leur temps dessus : Youtube / Facebook / Twitter / LinkedIN / Pinterest / Instagram 
+
+=> SMO : Social Média Optimization
+
+=> SMA : Social Média Advertizing 
+
+=> SMM = SMO + SMA 
+
+E Reputation : SEM + SMM
+
+SERP : Search Engine Response / Result Page 
+
+=> https://www.abondance.com/ (articles avec les dernières news  dans le domaine des moteurs de recherche)
+
+
+
+
+
+
 -----------------------
 
