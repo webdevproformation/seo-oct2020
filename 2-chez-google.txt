@@ -128,3 +128,24 @@ très bonne note aussi (meilleure note même si il a peu de lien vers lui )
 
 => Google Bombing ?? 
 https://optimiz.me/google-bombing/
+
+=> trouver chuck norris
+
+=> Manipulation des pages de résultat de Google 
+
+-----------------------
+
+Ajouter un Algorithme => TR = Trust Rank 
+
+En plus de la quantité de liens vérifier que les sites qui vous envoie des liens 
+sont de qualité 
+
+=> coder par un script et non par un humain 
+=> https://support.google.com/webmasters/answer/35769?hl=en
+
+NE PAS Utiliser => google mauvaise note 
+
+=> 2ème filtre pour classer les résultats 
+
+-----------------------
+
