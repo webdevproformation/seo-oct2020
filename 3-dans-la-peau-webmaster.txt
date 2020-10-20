@@ -1,0 +1,18 @@
+Pour être bien classé sur Google (dans le zone Organic)
+
+1 => Bien choisir ses mots clé 
+
+2 => respecter un certain nombre de règles techniques
+utiliser certaines balises html 
+ne pas utiliser certaines balises ... 
+créer un fichier robots.txt / sitemap.xml 
+... 
+
+3 => Mettre en place du Linking
+Faire en sorte que d'autres site que le votre met des lien vers chez vous 
+
+------
+
+Questions ?
+
+4-keywords.txt
