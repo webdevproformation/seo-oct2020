@@ -115,7 +115,8 @@ FR / EN
 <!-- 
     favicon => icone de barre de favoris
     icone => 16 x 16 pixel => barre des favoris / dans les titres 
-
+    la balise en charge d'afficher les favicons => ne fonctionne pas comme les balises
+    <img> le body elles n'ont pas d'attribut alt=""
 -->
 <link rel="apple-touch-icon" sizes="57x57" href="favicon/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="favicon/apple-icon-60x60.png">
@@ -187,8 +188,32 @@ FR / EN
 <body>
   <div class="wrapper">
     <header class="clearfix">
+        <!--  dans la balise body => 
+        important pour réussir votre référencement naturel 
+
+        => titre h1 et h2 
+
+        => 1 seule balise h1 par page
+        => autant de balises h2 que vous souhaitez dans la page 
+
+        => pas hésiter à mettre les mots dans ces balises 
+        -->
+
       <figure class="logo">
-        <img src="img-privee/logo.png" alt="logo nom de l'hôtel" />
+        <img src="https://via.placeholder.com/57x57?text=logo" alt="logo nom de l'hôtel" />
+        <!-- les balises images 
+            img 2 attributs
+             src =" fichier source.jpg"
+             alt="" texte alternatif 
+
+             le contenu de ces deux balises est IMPORTANT pour le moteur de recherche 
+
+             mots clé dans l'attribut ALT 
+             nommer vos fichiers avec les mots clés
+             en + d'être important le pour le SEO 
+             le contenu de cet attribut est affiché si le contenu de l'attribut src n'est pas existe pas 
+             https://via.placeholder.com/57x54?text=logo
+        -->
       </figure>
       <h1 class="brend">
         <span>Hôtel luxury</span>
@@ -207,12 +232,31 @@ FR / EN
       <div class="intro clearfix">
         <div class="presentation-texte">
           <div>
+
+            <!-- 
+                balise <strong>
+                balise <em> => ce sont deux balises les moteurs de recherche vont apprécier 
+                mot important !! 
+                => fastidieux.
+                => si vous qui avez le faire 
+                => relire un article qui a été créer par une autre personne que vous 
+                => DONC module permettre de vous évoluer si votre est conforme 
+                => Chrome => google => SEOQuake
+                => plugin / extension dans Chrome 
+                => regarder rapidement si une personne bien travailler le seo de sa page 
+
+                => quand vous avez fini de rédiger vos articles 
+                => lancer cet extension 
+                => OPtimisation TECHNIQUE 
+
+                
+            -->
            <p><em>Les mots les plus importants</em> Lorem ipsum dolor sit <em>amet</em>, consectetur adipisicing elit. Reiciendis asperiores <strong>dignissimos possimus</strong> aspernatur, nobis, nemo sunt corporis provident vel beatae dolorum laborum eligendi, non quaerat eum. A aliquam, sint explicabo.</p>
            <p>Lorem ipsum dolor sit <em>amet</em>, consectetur adipisicing elit. Reiciendis asperiores <strong>dignissimos possimus</strong> aspernatur, nobis, nemo sunt corporis provident vel beatae dolorum laborum eligendi, non quaerat eum. A aliquam, sint explicabo.</p>
           </div>
         </div>
         <figure class="presentation-img">
-         <img src="img/400x180.png" alt="accueil hôtel luxury" />
+         <img src="https://via.placeholder.com/400x180?text=Accueil de l'hôtel" alt="accueil hôtel luxury" />
        </figure>
      </div>
      <hr>
