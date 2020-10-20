@@ -1,0 +1,16 @@
+lorsque votre site internet est en ligne => sur hébergement 
+
+=> quelles sont balises html à utiliser dans vos pages => bien mieux classé
+
+=> quelles sont les fichiers robots.txt et sitemap.xml => dédiés pour les scripts d'exploration , à mettre en place 
+
+=> outils pour faire une check list => bien vérifier que il n'y a d'oublie dans les techniques utilisées
+
+-------------------------------
+
+Exemple => concrêt
+
+créer deux fichiers : 
+5-accueil.html => remplir via le code disponible en fin de page 
+5-style.css => remplir 
+

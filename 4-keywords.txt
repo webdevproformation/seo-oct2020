@@ -1,0 +1,114 @@
+1er pilier du SEO 
+
+MOT Clé => Key words 
+
+=> correspond à l'ensemble de mots que va saisir l'internaute
+
+=> Mots clés => Expression clé / phrase que l'internaute à saisis dans le champ du moteur de chercher 
+
+
+formation en informatique 
+
+=> Projet => Idée le sujet du site internet 
+
+Informatique 
+Cuisine 
+paysage ... 
+
+=> Combien de fois ce sujet a été saisi dans les moteurs de recherche ?
+
+=> idée Traffic potentiel => quantité d'internaute qui va enir voir votre travail 
+
+=> idée : Combien de fois au cours de l'année 2020 => Informatique seul
+a été saisi dans la zone 
+
+=> https://neilpatel.com/fr/ubersuggest/
+
+=> gratuit mais avec un inscription 
+
+
+sur Google .fr => informatique
+
+=> volume et le niveau de concurrence pour un mot clé
+=> Idées de Mots-clés => recherches associés 
+
+informatique 
+toutes les requêtes / Key words  => qui contiennent le mot informatique 
+
+toutes les questions qui contiennent le mots clé informatique 
+
+poser des questions à google => poser des questions à être humain
+
+=> volume mais idée de toutes les questions qui ont été posée informatique 
+
+---------------------
+
+Codage => Marketing ( Etude de marché sur le mot clé )
+
+Client 
+=> on me trouve pas sur Google => 
+=> mot clé que je dois te trouver ?? 
+
+=> liste de mots clé sur lequel je dois vous trouver ?? 
+
+=> après avoir créer cette liste => utiliser dans le code html 
+
+---------------------
+
+à la place d'un sujet informatique => lemonde.fr
+
+---------------------
+=> Google Analytics 
+=> Google KeyWord Planner 
+=> Google Webmaster Tool 
+Google Search Console Tool
+=> statistique précises sur le traffic de votre site depuis la zone organic 
+
+---------------------
+
+concurrent de 
+https://keywordtool.io/
+=> site moins bien que le site précédent mais donne des informations sur le référenment
+=> liste des requêtes réalisées sur Google et qui contiennent le mot clé 
+
+https://answerthepublic.com/
+=> site moins bien que le site précédent mais donne des informations sur le référenment
+
+https://trends.google.fr/trends/?geo=FR
+
+> site moins bien que le site précédent mais donne des informations sur le référenment
+
+------------------------
+
+liste de mots clés => utiliser dans votre site internet
+
+mot clé 
+
+200 mots > le mot clé soit répété plus de 10% => 20 fois 
+taux de densité du mot clé dans la page web ( => outil rapport => plugin SEOQuake )
+
+=> 1 page internet =  1 mot clé associé 
+
+=> bien choisir ses mots clés et les utiliser dans vos pages !
+
+------------------------
+
+13h34 Bonne appétit tout le monde 
+=> Optimisation technique
+
+robots.txt => analyser script de google Exploration 
+
+User-agent: * 
+Disallow: 
+Allow: 
+Sitemap:
+
+
+=> indication aux robots ce qu'il peut ou pas ajouter dans la Enorme BDD  de Google 
+
+------------------------
+
+web Analytics => données 
+
+5-optimisation-technique.txt
+

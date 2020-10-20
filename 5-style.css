@@ -1,0 +1,173 @@
+video, iframe, img{
+	width:100%;
+	height: 100%;
+	display: inline-block;
+	background: grey;
+}
+iframe{
+	frameborder:0;
+	border:0;
+}
+
+a{
+	text-decoration: none;
+	color:red;
+}
+
+a:hover{
+	color:grey;
+}
+
+figure{
+	margin:0;
+}
+
+em,strong{
+	color:red;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+.clearfix { 
+	display: inline-block; 
+}
+/* start commented backslash hack \*/
+* html .clearfix { 
+	height: 1%; 
+}
+.clearfix { 
+	display: block; 
+}
+/* close commented backslash hack */
+
+
+.presentation-texte{
+	width:70%;
+	float: left;
+}
+.presentation-texte div{
+	margin-right: 20px;
+	text-align: justify;
+}
+.presentation-img{
+	width:30%;
+	float: left;
+}
+
+.wrapper{
+	width:90%;
+	margin: 0 auto;
+}
+.section-title{
+	margin-bottom: 0;
+}
+
+.logo{
+	width:5%;
+	float: left;
+}
+.brend{
+	width:30%;
+	float: left;
+	line-height: 20px;
+}
+.brend span{
+	padding: 0 20px;
+}
+.menu{
+	width: 50%;
+	float: right;
+}
+
+.menu ul{
+	margin:0;
+	padding:0;
+}
+.menu li{
+	float: left;
+	margin:inherit;
+	width: 33.33333%;
+	text-align: center;
+	list-style-type: none;
+}
+.menu li a{
+	display: block;
+	width: 100%;
+	line-height: 65px;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+article.article{
+	width:49%;
+	float: left;
+}
+article.article:nth-child(odd){
+	margin-right: 2%;
+}
+
+section.intro{
+	width:100%;
+	float: none;	
+}
+
+.title{
+	float: left;
+	width: 60%;
+	color: red;
+}
+.date{
+	float: left;
+	width: 40%;
+	text-align: right;
+}
+.date time{
+	line-height: 70px;
+	padding: 0 20px 0 10px;
+}
+
+.media{
+	width:35%;
+	float: left;
+	vertical-align: middle;
+	height: 200px;
+}
+
+.texte{
+	width:65%;
+	float: left;
+}
+.texte p{
+	margin:0;
+	padding: 0 0 0 15px;
+	text-align: justify;
+}
+
+.next{
+	text-align: right;
+}
+
+.sep{
+	width:50%;
+	border:none;
+	border-top: 1px dashed grey;
+}
+
+article.infos{
+	width: 33.3333%;
+	float: left;
+}
+.keywords{
+	font-size: 10px;
+	text-align: center;
+}
+.copyright{
+	color: red;
+	text-align: center;
+}
